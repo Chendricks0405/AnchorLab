@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+openai
+requests
+redis>=5.0

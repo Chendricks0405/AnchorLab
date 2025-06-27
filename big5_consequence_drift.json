@@ -1,0 +1,402 @@
+{
+  "active": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "agreeable": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "anxious": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "artistic": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "assertive": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "bashful": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "bold": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "bright": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "careful": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "careless": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "cold": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "complex": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "conscientious": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "considerate": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "cooperative": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "creative": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "daring": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "deep": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "demanding": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "disorganized": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "distrustful": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "efficient": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "emotional": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "energetic": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "envious": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "extraverted": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "fearful": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "fretful": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "generous": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "haphazard": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "harsh": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "helpful": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "high-strung": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "imaginative": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "imperceptive": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "imperturbable": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "impractical": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "inconsistent": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "inefficient": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "inhibited": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "innovative": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "insecure": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "intellectual": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "introspective": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "introverted": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "irritable": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "jealous": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "kind": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "moody": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "neat": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "negligent": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "nervous": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "organized": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "philosophical": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "pleasant": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "practical": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "prompt": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "quiet": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "relaxed": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "reserved": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "rude": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "self-pitying": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "selfish": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "shallow": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "shy": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "simple": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "sloppy": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "steady": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "sympathetic": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "systematic": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "talkative": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "temperamental": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "thorough": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "timid": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "touchy": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "trustful": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "unadventurous": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "uncharitable": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "uncooperative": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "uncreative": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "undemanding": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "undependable": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "unemotional": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "unenvious": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "unexcitable": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "unimaginative": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "uninquisitive": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "unintellectual": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "unintlligent": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "unkind": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "unreflective": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "unrestrained": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "unsophisticated": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "unsympathetic": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "unsystematic": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "untalkative": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "verbal": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "vigorous": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "warm": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  },
+  "withdrawn": {
+    "Safety": 0.4,
+    "Fear": -0.2
+  }
+}
